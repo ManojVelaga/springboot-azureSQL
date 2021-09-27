@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:sqlserver://testsqlv1.database.windows.net:1433;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+    url: jdbc:sqlserver://javatechdemo.database.windows.net:1433;database=javatechdemo;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
     
-    username: testsqlv1
+    username: javatechdb
     password: Welcome@96
   jpa:
     show-sql: true
