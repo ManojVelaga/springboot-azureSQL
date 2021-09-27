@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:sqlserver://azuresqldemov1.database.windows.net:1433;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+    url: jdbc:sqlserver://azuresqldemo2.database.windows.net:1433;database=testsqldemo2;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
     
     username: javasession
     password: Welcome@96
