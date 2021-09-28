@@ -1,7 +1,8 @@
 spring:
   datasource:
-    url: jdbc:sqlserver://javatechdemo.database.windows.net:1433;database=javatechdemo;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
-    
+    url: jdbc:sqlserver://javasqldemo.database.windows.net:1433;database=javasessionsqldemo;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+
+   
     username: javatechdb
     password: Welcome@96
   jpa:
