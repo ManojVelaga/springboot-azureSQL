@@ -3,7 +3,7 @@ spring:
     url: jdbc:sqlserver://javasqldemo.database.windows.net:1433;database=javasessionsqldemo;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
 
    
-    username: javatechdb
+    username: sqldemov1
     password: Welcome@96
   jpa:
     show-sql: true
